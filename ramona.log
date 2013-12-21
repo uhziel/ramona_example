@@ -1,0 +1,7 @@
+2013-12-21 16:31:12,843 WARNING: We have stall recovery situation on stdout socket of <program app1 state=RUNNING pid=13316 exit_status=SIGKILL>
+2013-12-21 16:31:13,044 WARNING: We have stall recovery situation on stderr socket of <program app1 state=RUNNING pid=13316 exit_status=SIGKILL>
+2013-12-21 16:31:13,044 ERROR: <program app1 state=RUNNING exit_status=SIGKILL> exited unexpectedly -> FATAL
+2013-12-21 16:54:12,372 WARNING: Process in error condition during exit: <program app1 state=FATAL exit_status=SIGKILL>
+2013-12-21 16:54:32,685 WARNING: We have stall recovery situation on stdout socket of <program app1 state=RUNNING pid=13451 exit_status=SIGKILL>
+2013-12-21 16:54:32,886 WARNING: We have stall recovery situation on stderr socket of <program app1 state=RUNNING pid=13451 exit_status=SIGKILL>
+2013-12-21 16:54:32,887 ERROR: <program app1 state=RUNNING exit_status=SIGKILL> exited unexpectedly -> FATAL -> autorestart
